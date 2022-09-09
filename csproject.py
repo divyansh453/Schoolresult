@@ -1,10 +1,4 @@
-print("**THIS IS THE PROJECT OF COMPUTER SCIENCE(PYTHON) BY DIVYANSHU RANA & NAVNEET MANI OF CLASS-XII(SESSION:-2020-21)**")
-print('''
-                **INTRODUCTION**
-NAME-DIVYANSHU RANA                NAME-NAVNEET MANI
-                         AND
-ROLL NUMBER-03                     ROLL NUMBER-14
-''')
+print("**THIS IS THE PROJECT OF COMPUTER SCIENCE(PYTHON) BY DIVYANSHU RANA  OF CLASS-XII(SESSION:-2020-21)**")
 print("Welcome,Now you can check sql data without opening 'Mysql'")
 h=input("Enter host's name:")
 u=input("Enter user's name:")
